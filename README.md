@@ -2,7 +2,7 @@
 
 <!-- If your image is inside static folder, use: ./static/your-image-name.jpg -->
 <!-- If it's inside static/uploads, use: ./static/uploads/your-image-name.jpg -->
-![eCommerce Banner](./static/uploads/tv.jpg)
+![eCommerce Banner](static/images/slider1.jpg)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org)
 [![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
